@@ -1,5 +1,36 @@
 Online gas booking system project in Java servlet and jsp
+** Online Gas Booking System**
+1.1 Project Objectives:
+User-Friendly Platform: To provide customers with a convenient and intuitive platform for booking gas cylinders online.
+Operational Efficiency: To streamline the gas company's operations by reducing reliance on manual paperwork and calls, minimizing errors associated with traditional methods.
+Real-Time Inventory Management: To ensure the gas company can track inventory accurately and meet customer demand consistently.
+Enhanced Customer Satisfaction: To improve transparency and reliability in the booking process with timely notifications and updates.
+Reduced Customer Service Workload: To allow customer service representatives to focus on higher-value tasks by minimizing booking-related inquiries.
+Revenue Growth: To boost profitability by promoting online bookings and enhancing resource management within the company.
+1.2 Existing System and Need for System:
+Existing System:
 
+In-Person Booking: Requires customers to visit the gas agency with documentation, leading to inconvenience.
+Phone Booking: Customers book by calling and providing gas connection details, which can be error-prone.
+Cash Payments: Payments are often limited to cash, either at booking or delivery.
+Limited Hours: Office hours restrict booking availability, complicating schedules for busy customers.
+Long Wait Times: Customers may experience delays due to queues for booking or pickup.
+No Real-Time Updates: Customers lack access to real-time booking status or delivery information.
+Manual Records: Record-keeping is manual, which can result in booking and delivery errors.
+Need for System:
+
+Convenience: Enables online booking at any time, eliminating the need to visit the office.
+Time-Saving: Reduces paperwork and calls, saving time for both customers and the company.
+24/7 Availability: Provides round-the-clock booking access via the internet.
+Improved Efficiency: Reduces workload for customer service and enhances accuracy in booking information.
+Data Management: Facilitates tracking of customer data, booking history, and inventory, aiding in operational planning.
+1.3 Scope of Work:
+Customer Record Management: Maintain accurate records for each customer.
+Record Editing: Enable addition, updating, and deletion of records as needed.
+Online Booking: Allow customers to book gas cylinders from any location with internet access.
+Customer Validation: Ensure the customer is eligible for gas booking.
+Payment Integration: Ensure valid bookings are completed through a secure payment process.
+Booking Record Maintenance: Keep a systematic record of all bookings and transactions.
 ![image](https://github.com/OmkarD45/E-Gas-Sewa-/assets/92933774/6859d094-f00a-452f-b031-cb06f476473f)
 ![image](https://github.com/OmkarD45/E-Gas-Sewa-/assets/92933774/8d0fce18-974d-4584-b38d-5fc74c7492f3)
 ![image](https://github.com/OmkarD45/E-Gas-Sewa-/assets/92933774/4ed64dd7-88ce-48a4-b1ba-dc26d50bb4cb)
